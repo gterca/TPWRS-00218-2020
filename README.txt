@@ -6,7 +6,7 @@ COPYRIGHT: Gonçalo Terça and David Wozabal, 05/2020.
 
 II. REQUIREMENTS
 ----------------
-The case studies are coded in MATLAB and require a basic MATLAB installation and optimization toolbox (alternatively any other linear programming solver that interfaces with YALMIP), and the YALMIP package to freely available at
+The case studies are coded in MATLAB and require a basic MATLAB installation and optimization toolbox (alternatively any other linear programming solver that interfaces with YALMIP), and the YALMIP package available to download freely at
 https://yalmip.github.io/download/
 The installation directory of YALMIP has to be added to the MATLAB path.
 
